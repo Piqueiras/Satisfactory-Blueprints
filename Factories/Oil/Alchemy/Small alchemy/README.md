@@ -1,8 +1,8 @@
-[IN]
+### [IN]
 30 rubber
 180 fuel
-[OUT]
+### [OUT]
 120 rubber
 90 plastic
-[SIZE]
+### [SIZE]
 4x7 foundations

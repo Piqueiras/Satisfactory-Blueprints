@@ -1,8 +1,8 @@
-[IN]
+### [IN]
 90 oil
-[OUT]
+### [OUT]
 30 rubber
 240 fuel
-[SIZE]
+### [SIZE]
 8x7 foundations
 Used to feed into an alchemy plant
